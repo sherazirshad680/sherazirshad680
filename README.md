@@ -120,11 +120,4 @@ Amidst my journey, I'm continuously expanding my horizons and mastering new tech
 
 ## Feel free to explore my GitHub repositories...
 
-[![sherazirshad680's GitHub](https://img.shields.io/badge/GitHub-ahmedjawad1857-black?style=for-the-badge&logo=github&logoColor=white&logoWidth=20)](https://github.com/ahmedjawad1857)
-
-## ⚡ Fun fact:
-_"If your code work well then don't touch it"_
-
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![sherazirshad680's GitHub](https://img.shields.io/badge/GitHub-sherazirshad680-black?style=for-the-badge&logo=github&logoColor=white&logoWidth=20)](https://github.com/ahmedjawad1857)
