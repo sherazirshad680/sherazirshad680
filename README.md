@@ -1,5 +1,5 @@
  
-<h1 align="center">Hi everyone, I am Sheraz_Irshad! 👋
+<h1 align="center" color="red">Hi everyone, I am Sheraz_Irshad! 👋
 </h1>
 
 <h2 align="center">👋 Hello there! Welcome to my GitHub profile, where creativity meets code. I'm am Sheraz_Irshad, a passionate software developer on a journey to craft elegant solutions to complex problems. Here's a glimpse into the vast universe of technologies I've explored and mastered:
