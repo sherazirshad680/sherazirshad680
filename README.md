@@ -1,4 +1,6 @@
- 
+<div align="center">
+  <img height="250" src="https://img.freepik.com/premium-vector/coding-system-banner_87720-2994.jpg?w=2000" />
+</div> 
 <h1 align="center" color="red">Hi everyone, I am Sheraz_Irshad! 👋
 </h1>
 
