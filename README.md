@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=whit" alt="Twitter Badge"/>
   </a>
 </div>
-
+</hr>
 
 
 ## Frontend Sorcery 🎨
