@@ -25,6 +25,9 @@
   </a>
 </div>
 <hr/>
+<h2>Languages and Tools:<h2/>
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
 
 ## Frontend Sorcery 🎨
