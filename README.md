@@ -6,22 +6,22 @@
 
 <h2 align="center">👋 Hello there! Welcome to my GitHub profile, where creativity meets code. I'm am Sheraz_Irshad, a passionate software developer on a journey to craft elegant solutions to complex problems. Here's a glimpse into the vast universe of technologies I've explored and mastered:
 </h2>
-### Connect with me:
+ <h2>Connect with me:</h2>
 <div id="badges">
-  <a href="https://github.com/axiftaj">
+  <a href="https://github.com/sherazirshad680">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCzvRaprYPhvAplMK36Gu0kw">
+  <a href="https://www.youtube.com/@code_with_sherry">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-   <a href="https://www.instagram.com/axif_taj">
+   <a href="https://www.instagram.com/SHERAZ_GILL_07">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="https://fb.com/aaxiftaj">
+   <a href="https://github.com/sherazirshad680">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-   <a href="https://twitter.com/axiftaj">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+   <a href="https://github.com/sherazirshad680">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=whit" alt="Twitter Badge"/>
   </a>
 </div>
 
